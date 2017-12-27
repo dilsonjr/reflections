@@ -19,6 +19,8 @@ Some situations like when you want to make an experiment, or use a different lan
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams help us visualize what commits are pertinent to each branch and which are unreachable
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
