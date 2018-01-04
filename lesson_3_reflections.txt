@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Master has to be always deployable. Working on separate branches will protect master from the risk of inserting bugs or problems into master, while we are working on a fix or feature
